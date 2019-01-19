@@ -56,6 +56,10 @@ return [
 
     'asset_url' => env('ASSET_URL', null),
 
+    'app_domain' => 'nantesbio.com',
+
+    'public_domain' => 'mkwp.org',
+
     /*
     |--------------------------------------------------------------------------
     | Application Timezone
